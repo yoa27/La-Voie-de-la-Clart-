@@ -1,0 +1,6 @@
+{
+  "name": "La Voie de la Clarté",
+  "description": "Une application de pleine conscience, d'affirmations, de gratitude et de visualisation pour manifester la paix et la clarté au quotidien.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
